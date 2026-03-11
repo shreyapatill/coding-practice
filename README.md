@@ -1,4 +1,4 @@
-# Competitive Coding Solutions
+# Coding Solutions
 
 Solutions for **LeetCode** and **Work@Tech** problems.
 
